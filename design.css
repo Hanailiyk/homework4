@@ -1,0 +1,99 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+}
+
+ul.list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.list li {
+  margin-left: 20px;
+}
+
+.Sneakers {
+  background-color: #a5ad9d;
+  height: 610px; 
+  width: 100%; 
+font-size: 46px;
+text-align: left;
+font-weight: normal;
+}
+.font {
+font-family: 'Tomorrow', sans-serif;
+font-weight: lighter;
+margin-left: 100px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+body{
+font-family: 'Tomorrow', sans-serif;
+font-weight: lighter
+}
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: -75px;
+  margin-top: -75px;
+}
+
+.two{
+  display: flex;
+  justify-content: left;
+   margin-left: 100px;
+   margin-top: 158px;
+   float: left;
+  }
+  .two >img {
+    margin-right: 32px;
+    margin-bottom: 168px;
+  }
+.main{
+margin-right: 205px;
+}
+
+.Sneakers > p {
+  font-size: 40px;
+  margin-top: 158px;
+}
+
+.Juarez{
+  clear: both;
+  font-size: 56px;
+  background-color: #88947c;
+  height: 862px; 
+  width: 100%; 
+}
+
+.Juarez > p {
+  margin-left: 205px;
+  margin-right: 205px;
+padding-top: 214px;
+color: aliceblue;
+}
+
+
+.last > img {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 136px;
+  float: left;
+}
+
+.last > h2 {
+  margin-top: 122px;
+  font-size: 40px;
+  margin-right: 100px;
+  font-weight: lighter;
+}
+
+.last > p {
+  font-size: 24px;
+  margin-right: 100px;
+  color: rgb(71, 71, 71);
+}
